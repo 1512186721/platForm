@@ -1,0 +1,4 @@
+cn\com\applets\user\dao\UserInfoMapper.class
+cn\com\applets\user\model\UserInfo.class
+cn\com\applets\user\service\impl\UserServiceImpl.class
+cn\com\applets\user\service\UserService.class
